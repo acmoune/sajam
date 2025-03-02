@@ -1,0 +1,13 @@
+{
+  "name": "sajam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": { "node": ">=18.20.4" },
+  "scripts": {
+    "build": "echo NoBuild"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
